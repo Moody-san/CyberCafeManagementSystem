@@ -1,0 +1,60 @@
+
+Name: Moazz Sajjad
+Age: 21
+Date of birth: 2/2/1999
+Sex: M
+CNIC: 42201-8092331-2
+Email: m.sajr@yahoo.com
+Phone Number: 0300-7090116
+Username: moaz
+Password: 213123131
+Balance: 230
+Account type: premium
+Date: 1/20/2021 
+Session: 21(date)16(hour)30(min)
+Room: STRATEGY ROOM  
+
+Name: Mariam Tanvir
+Age: 28
+Date of birth: 12/2/1992
+Sex: F
+CNIC: 42201-8035774-2
+Email: yma.masr@yahoo.com
+Phone Number: 0300-9296420
+Username: masee
+Password: nlzza
+Balance: -100
+Account type: regular
+Date: 1/19/2021 
+Session: 21(date)13(hour)12(min)
+Room: MATCH ROOM     
+
+Name: Hassan Mehmood
+Age: 19
+Date of birth: 12/14/2001
+Sex: O
+CNIC: 42201-3546789-0
+Email: as.asdr@yahoo.com
+Phone Number: 0321-9432870
+Username: hasgam
+Password: gamerboy123
+Balance: -150
+Account type: premium
+Date: 1/19/2021 
+Session: 2(date)4(hour)12(min)  
+Room: PRIVATE ROOM   
+
+Name: Katie Bell
+Age: 30
+Date of birth: 30/6/1990
+Sex: F
+CNIC: 42201-5126791-0
+Email: cutiekate@yahoo.com
+Phone Number: 0333-3125678
+Username: katie369
+Password: katie963
+Balance: 0
+Account Type: regular
+Date: 1/20/2021 
+Session: 21(date)16(hour)30(min)
+Room: STRATEGY ROOM  
